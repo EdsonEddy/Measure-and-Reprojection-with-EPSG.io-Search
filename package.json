@@ -1,0 +1,16 @@
+{
+  "name": "measure-style",
+  "dependencies": {
+    "ol": "7.1.0",
+    "proj4": "2.8.0"
+  },
+  "devDependencies": {
+    "@babel/core": "latest",
+    "prettier": "2.7.1",
+    "vite": "^3.0.3"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  }
+}
